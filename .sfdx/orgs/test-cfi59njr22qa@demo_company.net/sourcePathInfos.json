@@ -1,0 +1,114 @@
+[
+    [
+        "C:\\SFDXTrail\\SFDXProject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDXTrail\\SFDXProject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511169112905,
+            "changeTime": 1511169112905,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\SFDXTrail\\SFDXProject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDXTrail\\SFDXProject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511169112906,
+            "changeTime": 1511169112906,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDXTrail\\SFDXProject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDXTrail\\SFDXProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511169403595,
+            "changeTime": 1511169403595,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3"
+        }
+    ],
+    [
+        "C:\\SFDXTrail\\SFDXProject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDXTrail\\SFDXProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511169112906,
+            "changeTime": 1511169112906,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDXTrail\\SFDXProject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SFDXTrail\\SFDXProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511169160014,
+            "changeTime": 1511169160014,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SFDXTrail\\SFDXProject\\force-app\\main\\default\\classes\\newclassnew.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDXTrail\\SFDXProject\\force-app\\main\\default\\classes\\newclassnew.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511169403597,
+            "changeTime": 1511169403597,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "C:\\SFDXTrail\\SFDXProject\\force-app\\main\\default\\classes\\newclassnew.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDXTrail\\SFDXProject\\force-app\\main\\default\\classes\\newclassnew.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 28,
+            "modifiedTime": 1511169403600,
+            "changeTime": 1511169403600,
+            "contentHash": "fffb524537166739173cadccc45199a20b4371a0"
+        }
+    ],
+    [
+        "C:\\SFDXTrail\\SFDXProject\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDXTrail\\SFDXProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511169403600,
+            "changeTime": 1511169403600,
+            "contentHash": "075caf94d37ce968f1941babd7e65c46ea5925b5"
+        }
+    ]
+]
